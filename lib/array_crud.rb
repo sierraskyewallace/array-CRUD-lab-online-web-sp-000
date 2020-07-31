@@ -8,7 +8,7 @@ end
 
 def add_element_to_end_of_array(array, element)
   fallout_games << "Fallout BOS"
-  puts fallout_games
+  puts fallout_games[4]
   
 end
 
