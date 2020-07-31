@@ -3,7 +3,7 @@ def create_an_empty_array
 end
 
 def create_an_array
-  fallout games = ["Fallout 3", "Fallout NV", "Fallout 4", "Fallout 76"]
+  fallout_games = ["Fallout 3", "Fallout NV", "Fallout 4", "Fallout 76"]
 end
 
 def add_element_to_end_of_array(array, element)
